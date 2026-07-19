@@ -1,0 +1,23 @@
+BASIC NETWORK SNIFFER
+
+Objective:
+To capture and analyze network traffic packets using Python and Scapy.
+
+Tools Used:
+
+* Python
+* Scapy
+* Visual Studio Code
+
+Procedure:
+
+1. Installed Python and Scapy.
+2. Created a Python script using Scapy.
+3. Captured network packets.
+4. Displayed source IP, destination IP and protocol information.
+
+Output:
+The program successfully captured network packet information.
+
+Conclusion:
+This project helped in understanding network communication and packet analysis.
